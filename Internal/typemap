@@ -1,0 +1,2 @@
+TYPEMAP
+fingerprint_t *	T_PTROBJ
